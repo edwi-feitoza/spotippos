@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeFiles>
+	<file path="v1_initial_load_provinces.js"/>
+	<file path="v1_initial_load_sequence.js"/>
+</changeFiles>
